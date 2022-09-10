@@ -12,6 +12,7 @@
 		2C548FD328CD018D00D4860E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C548FD228CD018D00D4860E /* Assets.xcassets */; };
 		2C548FD628CD018D00D4860E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C548FD528CD018D00D4860E /* Preview Assets.xcassets */; };
 		2C548FDD28CD031800D4860E /* ActionSheetSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C548FDC28CD031800D4860E /* ActionSheetSample.swift */; };
+		2C548FDF28CD044D00D4860E /* ContextMenuSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C548FDE28CD044D00D4860E /* ContextMenuSample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		2C548FD228CD018D00D4860E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C548FD528CD018D00D4860E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2C548FDC28CD031800D4860E /* ActionSheetSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetSample.swift; sourceTree = "<group>"; };
+		2C548FDE28CD044D00D4860E /* ContextMenuSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuSample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2C548FD028CD018B00D4860E /* ContentView.swift */,
 				2C548FDC28CD031800D4860E /* ActionSheetSample.swift */,
 				2C548FD228CD018D00D4860E /* Assets.xcassets */,
+				2C548FDE28CD044D00D4860E /* ContextMenuSample.swift */,
 				2C548FD428CD018D00D4860E /* Preview Content */,
 			);
 			path = SwiftUISamples;
@@ -142,6 +145,7 @@
 			files = (
 				2C548FDD28CD031800D4860E /* ActionSheetSample.swift in Sources */,
 				2C548FD128CD018B00D4860E /* ContentView.swift in Sources */,
+				2C548FDF28CD044D00D4860E /* ContextMenuSample.swift in Sources */,
 				2C548FCF28CD018B00D4860E /* SwiftUISamplesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
