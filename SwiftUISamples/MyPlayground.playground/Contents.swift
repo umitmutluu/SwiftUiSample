@@ -8,6 +8,6 @@ func functionSample(key: String){
     }else {
         print("Key:\(key) doesn't exist.")
     }
-    
-    
 }
+functionSample(key: "key1")
+functionSample(key: "key")
